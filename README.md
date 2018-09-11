@@ -4,4 +4,6 @@
 
 2. Type in the terminal 'php -S localhost:8080' to run the program.
 
-3. The outputs of the 3 programs will be visible in the browser.
+3. Go to http://localhost:8080 from the browser.
+
+4. The outputs of the 3 programs will be visible in the browser.
