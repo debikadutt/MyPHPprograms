@@ -2,7 +2,7 @@
 /**
  *  Bluetent Coding Challenge
  *
- *  Author: Debika Dutt debikadutt@gmail.com
+ *  Author: Debika Dutt debika5017@gmail.com
  *  Date:   9/11/2018
  */
 
